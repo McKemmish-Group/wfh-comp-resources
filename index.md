@@ -40,7 +40,7 @@ This short document lists possible activities suitable for Honours and HDR candi
 
 Use this opportunity to get up to date with the literature. Here are a few ways to do this:
 
-- You can use [Kopernio](https://kopernio.com) to access many papers available through your institution library from home. UNSW students, see UNSW-specific section above for more info.
+- You can use [Kopernio](https://kopernio.com) to access many papers available through your institution library from home. UNSW students, see UNSW-specific section above for more info. Getting started guide is here: https://clarivate.libguides.com/webofscienceplatform/kopernio-get-started
 - Follow RSS feeds of top journals using a cloud feed reader like [feedly](https://feedly.com/). Suggested journals include [Nature Chem](https://www.nature.com/nchem/), [JACS](https://pubs.acs.org/journal/jacsat), [Angew Chem](https://onlinelibrary.wiley.com/journal/15213757), [Chem Sci](https://pubs.rsc.org/en/Journals/JournalIssues/SC#!recentarticles&adv)
 - Do keyword searches for useful reviews and articles on [web of science](https://webofknowledge.com) and [google scholar](https://scholar.google.com/)
 - Set up Google Scholar alerts for keywords (or people) relevant to your project
